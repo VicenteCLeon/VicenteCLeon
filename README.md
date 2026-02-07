@@ -28,14 +28,6 @@ if __name__ == '__main__':
       <img align="left" width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Thamaa&langs_count=8&layout=compact" />
     </picture>
   </div>
-
-  ## 🧰Lenguages and tools
-  <div style="display: inline_block"><br>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="JAVA" height="30" width="30" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667">
-    <img align = "cemter" alt="PSTGRE" height="30" width="30"src="https://github.com/user-attachments/assets/75e7145b-e278-4815-a2ad-4989d6948dc4"/>
-    <img align="center" alt="git" height="30" width="30" src="https://camo.githubusercontent.com/15166a15835f145259844be455ab5945594a70c48a3090aa83d193bd5e3e9bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
     
   </div>
 </div>
