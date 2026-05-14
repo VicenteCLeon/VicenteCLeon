@@ -4,7 +4,6 @@
 ```python
 class AboutMe():
   # I'm currently a student at Pontificia Universidad Católica de Valparaíso (PUCV).
-  # I’m currently learning JavaScript...
     
   def __init__(self):
     self.name = "Vicente"
